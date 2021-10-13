@@ -1,0 +1,16 @@
+﻿I.ExportSchedule
+1, Không xóa được File trùng khi đang mở
+2, Khi đường dẫn rỗng 
+3, HàmExport
+  3.1, Hàm ExportViewSchedule
+	3.1.1, Hàm GetData
+
+II. FittingSchedule
+1, CmdCreateAndEdit
+	1.1, Không tồn tại Door và Windows trong Project
+	1.2, Hàm SetPartsView
+2, CmdLayout
+	2.1, Hàm GetViewSection
+	2.2, Hàm SetLayoutPartsView
+	2.3, Hàm SetViewPort
+
