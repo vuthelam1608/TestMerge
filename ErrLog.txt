@@ -14,3 +14,7 @@ II. FittingSchedule
 	2.2, Hàm SetLayoutPartsView
 	2.3, Hàm SetViewPort
 
+
+
+2
+
